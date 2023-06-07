@@ -1,6 +1,6 @@
-!!!WORK IN PROGRESS!!!
+### !!!WORK IN PROGRESS!!!
 
-#RTOS (Real-Time Operating System)
+# RTOS (Real-Time Operating System)
 
 1. Introdução ao RTOS
 
