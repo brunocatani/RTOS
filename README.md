@@ -1,17 +1,17 @@
-RTOS (Real-Time Operating System)
+!!!WORK IN PROGRESS!!!
+
+#RTOS (Real-Time Operating System)
 
 1. Introdução ao RTOS
+
 2. Multitarefa com FreeRTOS
+
 3. Sincronização de tarefas
-- Explique o porquê que nesse caso não precisa sincronizar tarefas?
-- Explique que em um ambiente de produção precisa-se criar semáforos
-ou mutaxes.
+
 4. Reações baseadas em condições de tempo real.
-- No caso explique o código da tarefa da qual o sensor irá ativar um led
-com temperatura a 26.00 graus, por meio de uma variável volátil.
+
 5. Vantagens
-- Faça um pequeno texto das vantagens do uso de RTOS nas aplicações
-IoT.
+
 
 ```c++
 #include <Arduino.h>
