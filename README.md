@@ -13,7 +13,7 @@ com temperatura a 26.00 graus, por meio de uma variável volátil.
 - Faça um pequeno texto das vantagens do uso de RTOS nas aplicações
 IoT.
 
-'''
+```c++
 #include <Arduino.h>
 #include <Arduino_FreeRTOS.h>
 #include <LiquidCrystal.h>
@@ -113,4 +113,4 @@ void TaskHotBlink(void *pvParameters) {
     vTaskDelay(1000 / portTICK_PERIOD_MS); 
   }
 }
-'''
+```
